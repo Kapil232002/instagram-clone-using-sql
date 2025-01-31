@@ -15,10 +15,10 @@
 
 ## some operations performed on this project using given data....
 
-    - 🔍 *Finding 5 Oldest Users*  
-    - 📅 *Most Popular Registration Date*  
-    - 📸 *Users with No Photos*  
-    - 🏆 *Most Popular Photo (And User Who Created It)*  
-    - 📊 *Average Number of Photos Per User*  
-    - 🔥 *Most Used Hashtags*  
-    - ❤️ *Users Who Have Liked Every Photo*  
+ - Finding 5 Oldest Users
+ - Most Popular Registration Date 
+ - Users with No Photos
+ - Most Popular Photo (And User Who Created It) 
+ - Average Number of Photos Per User  
+ - Most Used Hashtags
+ - Users Who Have Liked Every Photo8/
