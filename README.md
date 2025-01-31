@@ -21,4 +21,4 @@
  - Most Popular Photo (And User Who Created It) 
  - Average Number of Photos Per User  
  - Most Used Hashtags
- - Users Who Have Liked Every Photo8/
+ - Users Who Have Liked Every Photo
